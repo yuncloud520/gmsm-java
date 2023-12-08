@@ -8,7 +8,7 @@
     <version>2.0.3</version>
     <description>sm加解密组件</description>
 
-    <url>https://gitee.com/cn-yuncloud/gmsm-java</url>
+    <url>https://gitee.com/cn-openjava/gmsm-java</url>
 
     <licenses>
         <license>
@@ -25,9 +25,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://gitee.com/cn-yuncloud/gmsm-java.git</connection>
-        <developerConnection>scm:git:ssh://gitee.com/cn-yuncloud/gmsm-java.git</developerConnection>
-        <url>https://gitee.com/cn-yuncloud/gmsm-java</url>
+        <connection>scm:git:https://gitee.com/cn-openjava/gmsm-java.git</connection>
+        <developerConnection>scm:git:ssh://gitee.com/cn-openjava/gmsm-java.git</developerConnection>
+        <url>https://gitee.com/cn-openjava/gmsm-java</url>
     </scm>
 
     <dependencies>
