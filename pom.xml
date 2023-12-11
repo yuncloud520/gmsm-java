@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.openjava</groupId>
     <artifactId>gmsm</artifactId>
-    <version>2.0.4</version>
+    <version>2.0.5</version>
     <description>sm加解密组件</description>
 
     <url>https://gitee.com/cn-openjava/gmsm-java</url>
@@ -103,9 +103,6 @@
                     </execution>
                 </executions>
             </plugin>
-
-
-
         </plugins>
     </build>
 </project>

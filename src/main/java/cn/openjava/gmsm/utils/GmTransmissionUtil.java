@@ -25,7 +25,7 @@ public class GmTransmissionUtil {
     /**
      * 分割字符串3
      */
-    private static final String STR3 = "goodjob";
+    private static final String STR3 = "G";
 
     /**
      * 无参构造函数
